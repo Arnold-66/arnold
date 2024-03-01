@@ -158,7 +158,7 @@
     background: linear-gradient(#0c0f0a, #0c0f0a) padding-box;
     border: none;
     padding: 32px 24px;
-    font-size: 20px;
+    font-size: 15px;
     font-family: "Montserrat", sans-serif;
     font-weight: weight;
     font-style: normal;
@@ -201,7 +201,7 @@
     margin-bottom: 6px;
     color: #ffffff;
     font-weight: 600;
-    font-size: 15px;
+    font-size: 12px;
     padding-top: 5px;
   }
   
